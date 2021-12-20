@@ -1,0 +1,12 @@
+https://etudiant.u-pem.fr/~yassine.el-jide
+
+au cas où il marche pas (mes identifiants e-learning):
+	id: yassine.el-jide	
+	mdp: EljideYassine123_@
+
+
+Exemple de compte:
+	login: Anass12	
+	motdepasse: anass
+
+
